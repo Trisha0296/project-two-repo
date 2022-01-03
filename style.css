@@ -1,0 +1,45 @@
+
+.cover{
+    background-image: url(img/3e72b475c449ac152da63ab53796b51e.jpg);
+    background-repeat: no-repeat;
+    padding: 20px;
+  background-size: cover;
+}
+#onetw{
+    font-size: 25px;
+   border-radius: 10px;
+   border: solid rgb(235, 203, 77) ;
+}
+#manuS{
+    color: black;
+    margin-left: 80%;
+   font-size: 25px;
+   border-radius: 10px;
+   border: solid cornsilk ;
+
+}
+
+
+.margin{
+    margin-top: 200px;
+    margin-left: 100px;
+    font-size: 25px;
+
+}
+#paragraph{
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+#headline{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+.last{
+    margin-top: 450px;
+    margin-left: 650px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
